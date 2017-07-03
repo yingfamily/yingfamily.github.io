@@ -3,6 +3,4 @@
 <url> <loc>http://test.com/404.html</loc> </url>
 <url> <loc>http://test.com/about/</loc> </url>
 <url> <loc>http://test.com/</loc> </url>
-<url> <loc>http://test.com/posts/first-post/</loc> </url>
-<url> <loc>http://test.com/posts/hello-world/</loc> </url>
 </urlset>
